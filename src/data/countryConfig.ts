@@ -1,0 +1,41 @@
+export const COUNTRY_DOMAINS: { [key: string]: string } = {
+    US: 'zolmi.com',
+    AE: 'zolmi.ae',
+    IE: 'zolmi.ie',
+    ES: 'zolmi.es',
+    PL: 'zolmi.pl',
+    GB: 'zolmi.co.uk',
+    CA: 'zolmi.ca',
+    ZA: 'zolmi.co.za',
+    NZ: 'zolmi.co.nz',
+    AU: 'zolmi.com.au',
+    DE: 'zolmi.de',
+    FR: 'zolmi.fr',
+    DK: 'zolmi.dk',
+    SE: 'zolmi.se',
+    CZ: 'zolmi.cz',
+    NL: 'zolmi.nl',
+    PT: 'zolmi.pt',
+    HU: 'zolmi.hu'
+  };
+  
+  export const LOCALIZED_MESSAGES: { [key: string]: string } = {
+    PL: 'Czy chciałbyś odwiedzić stronę dotyczącą Polski?',
+    ES: '¿Te gustaría visitar el sitio para España?',
+    FR: 'Souhaitez-vous visiter le site pour la France ?',
+    DE: 'Möchten Sie die deutsche Website besuchen?',
+    PT: 'Gostaria de visitar o site para Portugal?',
+    NL: 'Wilt u de Nederlandse website bezoeken?',
+    DK: 'Vil du besøge det danske website?',
+    SE: 'Vill du besöka den svenska webbplatsen?',
+    CZ: 'Chcete navštívit české stránky?',
+    HU: 'Szeretné meglátogatni a magyar weboldalt?',
+    GB: 'Would you like to visit the UK site?',
+    IE: 'Would you like to visit the Irish site?',
+    AE: 'Would you like to visit the UAE site?',
+    CA: 'Would you like to visit the Canadian site?',
+    ZA: 'Would you like to visit the South African site?',
+    NZ: 'Would you like to visit the New Zealand site?',
+    AU: 'Would you like to visit the Australian site?',
+    US: 'Would you like to visit the US site?'
+  };
