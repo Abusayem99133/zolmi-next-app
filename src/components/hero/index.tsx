@@ -2,8 +2,9 @@ import { useEffect, useState } from 'react';
 
 import TrustBadges from '@/components/Hero/TrustBadges';
 import { useRotatingText } from '@/hooks/useRotatingText';
-import { businessTypes } from '@/data/businessTypes';
+
 import { CTAButtons } from '../chat/CTAButtons';
+import { businessTypes } from '@/data/businessTypes';
 
 export default function Hero() {
   const { text: businessType, isVisible } = useRotatingText(businessTypes, 2000);
