@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 300 80">
+  <style>
+    .text { fill: #ffffff; font-family: 'Arial Black', Arial, sans-serif; font-weight: 900; }
+    .large { font-size: 32px; letter-spacing: 1px; }
+    .small { font-size: 18px; letter-spacing: 2px; }
+  </style>
+  <g transform="translate(10, 45)">
+    <text class="text large">LEVEL UP</text>
+    <text x="180" y="0" class="text small">BARBERS</text>
+  </g>
+  <path d="M10,60 L290,60" stroke="#ffffff" stroke-width="2" opacity="0.3"/>
+</svg>

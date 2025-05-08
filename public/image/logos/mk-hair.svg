@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 300 80">
+  <style>
+    .text { fill: #ffffff; font-family: Arial, sans-serif; }
+    .large { font-size: 35px; font-weight: bold; }
+    .small { font-size: 20px; }
+  </style>
+  <text x="10" y="50" class="text large">MK</text>
+  <text x="80" y="50" class="text small">HAIR DESIGN</text>
+</svg>
