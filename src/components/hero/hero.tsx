@@ -9,6 +9,8 @@ import ReviewsSection from "@/reviews/ReviewsSection";
 import SocialProof from "../SocialProof";
 import PricingSection from "../pricing/PricinigSection";
 import FAQSection from "../faq/FAQSection";
+import FloatingCTA from "../chat/FloatingCTA";
+import FloatingChat from "../chat/FloatingChat";
 export default function HeroSection() {
   return (
    <>
@@ -21,6 +23,8 @@ export default function HeroSection() {
    <SocialProof/>
    <PricingSection/>
    <FAQSection/>
+   <FloatingCTA/>
+   <FloatingChat/>
    </>
   );
 }
