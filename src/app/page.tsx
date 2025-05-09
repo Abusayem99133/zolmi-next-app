@@ -5,7 +5,6 @@ import HeroSection from '@/components/hero/hero';
 const HomePage = () => {
     return (
         <div>
-            <h1 className='bg-red-500 cursor-pointer'>home page</h1>
             <HeroSection/>
         </div>
     );
