@@ -1,6 +1,7 @@
 import { useMemo } from 'react';
 import type { PricingTier } from '../data/pricing';
-import { calculateTotalPrice, calculateAnnualPrice, MAX_STAFF_COUNT } from '../utils/pricing';
+
+
 
 export function usePricingCalculator(
   basePricing: PricingTier[], 
