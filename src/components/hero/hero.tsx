@@ -18,7 +18,7 @@ export default function HeroSection() {
    <FeaturesBlock/> 
    <CustomerShowcase/>
    <AboutSection/>
-   <ProductFeatures/>
+   {/* <ProductFeatures/> */}
    <ReviewsSection/>
    <SocialProof/>
    <PricingSection/>
